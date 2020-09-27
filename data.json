@@ -1,0 +1,82 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "avatar_url": "https://source.unsplash.com/collection/1716356/500x500",
+      "name": "Adriano Barreto Monteiro de Almeida",
+      "email": "adriano.almeida@teste.com.br",
+      "birth": 472521600000,
+      "year": "terceiro_ano",
+      "count_hours": "30"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://source.unsplash.com/collection/2021906/500x500",
+      "name": "Adriano Teste 20",
+      "email": "adriano.20@teste.com.br",
+      "birth": 584928000000,
+      "year": "segundo_ano",
+      "count_hours": "40"
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://source.unsplash.com/collection/2021906/500x500",
+      "name": "Adriano Teste 10",
+      "email": "adriano.10@teste.com.br",
+      "birth": 584928000000,
+      "year": "primeiro_ano",
+      "count_hours": "40"
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://source.unsplash.com/collection/2021906/500x500",
+      "name": "Teste 21",
+      "email": "teste.21@teste.com.br",
+      "birth": 895017600000,
+      "year": "nono_ano",
+      "count_hours": "35"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "avatar_url": "https://source.unsplash.com/collection/517198/500x500",
+      "name": "Adriano Barreto Monteiro de Almeida",
+      "birth": 472521600000,
+      "escolaridade": "mestrado",
+      "class_type": "EAD",
+      "disciplinas": "Matemática, Física, Biologia",
+      "created_at": 1595191080745
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://source.unsplash.com/collection/489203/500x500",
+      "name": "Josimara Vieira Vale",
+      "birth": 470620800000,
+      "escolaridade": "superior",
+      "class_type": "Presencial",
+      "disciplinas": "Biologia, Português, Artes",
+      "created_at": 1595794432643
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://source.unsplash.com/collection/1716356/500x500",
+      "name": "Adriano Teste 01",
+      "birth": 658108800000,
+      "escolaridade": "mestrado",
+      "class_type": "Presencial",
+      "disciplinas": "português, física, matemática",
+      "created_at": 1601241469290
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://source.unsplash.com/collection/1716356/500x500",
+      "name": "Adriano Teste 07",
+      "birth": 658108800000,
+      "escolaridade": "mestrado",
+      "class_type": "EAD",
+      "disciplinas": "português, física, matemática",
+      "created_at": 1601241469295
+    }
+  ]
+}
